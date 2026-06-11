@@ -1,9 +1,7 @@
 # Eidentic
 
-**Agents that remember.**
-
-Eidentic is an open-source TypeScript SDK for building AI agents with self-improving
-memory — and the production fundamentals built in, not bolted on.
+**Eidentic is the open-source TypeScript SDK for AI agents with self-improving memory and
+production fundamentals built in, not bolted on.**
 
 - **Memory that improves itself** — self-editing blocks, lexical + vector recall, a temporal
   knowledge graph, and sleep-time consolidation. Your agent knows more next session.
